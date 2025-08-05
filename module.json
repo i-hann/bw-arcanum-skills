@@ -19,11 +19,11 @@
       }
     ]
   },
-  "url": "https://github.com/PauloDeTiege/FoundryBWCompendium",
-  "manifest": "https://raw.githubusercontent.com/PauloDeTiege/FoundryBWCompendium/master/module.json",
-  "download": "https://github.com/PauloDeTiege/FoundryBWCompendium/archive/v0.1.14.zip",
-  "bugs": "https://github.com/PauloDeTiege/FoundryBWCompendium/issues",
-  "readme": "https://github.com/PauloDeTiege/FoundryBWCompendium/README.md",
+  "url": "https://github.com/i-hann/bw-arcanum-skills",
+  "manifest": "https://raw.githubusercontent.com/i-hann/bw-arcanum-skills/master/module.json",
+  "download": "https://github.com/i-hann/bw-arcanum-skills/archive/v0.1.14.zip",
+  "bugs": "https://github.com/i-hann/bw-arcanum-skills/issues",
+  "readme": "https://github.com/i-hann/bw-arcanum-skills/README.md",
   "packs": [
     {
       "name": "bw-arcanum-skills",

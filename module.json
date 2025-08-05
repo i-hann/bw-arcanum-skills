@@ -12,7 +12,7 @@
       {
         "id": "burningwheel",
         "type": "system",
-        "manifest": "https://github.com/StasTserk/foundry-burningwheel/blob/master/system.json",
+        "manifest": "https://raw.githubusercontent.com/i-hann/bw-arcanum-skills/refs/heads/main/module.json",
         "compatibility": {
           "verified": "1.4.2"
         }

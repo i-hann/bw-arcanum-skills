@@ -1,8 +1,8 @@
 {
   "id": "bw-arcanum-skills",
-  "title": "Foundry BW Compendium",
+  "title": "BW Arcanum Skills",
   "description": "A set of compendiums that are compatible with StarsTserk Burning Wheel Module",
-  "version": "0.1.135",
+  "version": "0.1.136",
   "compatibility": {
     "minimum": "9",
     "verified": "13.000"

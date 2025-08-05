@@ -20,16 +20,16 @@
     ]
   },
   "url": "https://github.com/i-hann/bw-arcanum-skills",
-  "manifest": "https://raw.githubusercontent.com/i-hann/bw-arcanum-skills/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/i-hann/bw-arcanum-skills/v0.1.137/module.json",
   "download": "https://github.com/i-hann/bw-arcanum-skills/releases/download/v0.1.137/bw-arcanum-skills-v0.1.137.zip",
   "bugs": "https://github.com/i-hann/bw-arcanum-skills/issues",
-  "readme": "https://github.com/i-hann/bw-arcanum-skills/README.md",
+  "readme": "https://raw.githubusercontent.com/i-hann/bw-arcanum-skills/v0.1.137/README.md",
   "packs": [
     {
       "name": "arcanum-skills",
       "label": "Arcanum Skills",
       "system": "burningwheel",
-      "path": "packs/arcanum-skills",
+      "path": "packs/arcanum-skills.db",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",

@@ -2,7 +2,7 @@
   "id": "bw-arcanum-skills",
   "title": "BW Arcanum Skills",
   "description": "A set of compendiums that are compatible with StarsTserk Burning Wheel Module",
-  "version": "0.1.138",
+  "version": "0.1.139",
   "compatibility": {
     "minimum": "9",
     "verified": "13.000"
@@ -20,10 +20,10 @@
     ]
   },
   "url": "https://github.com/i-hann/bw-arcanum-skills",
-  "manifest": "https://raw.githubusercontent.com/i-hann/bw-arcanum-skills/v0.1.138/module.json",
-  "download": "https://github.com/i-hann/bw-arcanum-skills/releases/download/v0.1.138/bw-arcanum-skills-v0.1.138.zip",
+  "manifest": "https://raw.githubusercontent.com/i-hann/bw-arcanum-skills/v0.1.139/module.json",
+  "download": "https://github.com/i-hann/bw-arcanum-skills/releases/download/v0.1.139/bw-arcanum-skills-v0.1.139.zip",
   "bugs": "https://github.com/i-hann/bw-arcanum-skills/issues",
-  "readme": "https://raw.githubusercontent.com/i-hann/bw-arcanum-skills/v0.1.138/README.md",
+  "readme": "https://raw.githubusercontent.com/i-hann/bw-arcanum-skills/v0.1.139/README.md",
   "packs": [
     {
       "name": "arcanum-skills",

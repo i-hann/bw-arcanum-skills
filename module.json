@@ -26,10 +26,10 @@
   "readme": "https://github.com/i-hann/bw-arcanum-skills/README.md",
   "packs": [
     {
-      "name": "bw-arcanum-skills",
+      "name": "arcanum-skills",
       "label": "Arcanum Skills",
       "system": "burningwheel",
-      "path": "packs/bw-arcanum-skills",
+      "path": "packs/arcanum-skills",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",

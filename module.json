@@ -2,7 +2,7 @@
   "id": "bw-arcanum-skills",
   "title": "BW Arcanum Skills",
   "description": "A set of compendiums that are compatible with StarsTserk Burning Wheel Module",
-  "version": "0.1.136",
+  "version": "0.1.137",
   "compatibility": {
     "minimum": "9",
     "verified": "13.000"
